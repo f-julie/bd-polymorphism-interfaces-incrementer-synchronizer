@@ -11,7 +11,7 @@ and a `main()` method to interact with the `ArrayList`.
 ### Create the class
 
 Create a new class called `IncrementerSynchronizer` in the
-`src/com/amazon/ata/interfaces/classroom/increment` directory.
+`src/com/amazon/ata/interfaces/increment` directory.
 
 ### Create the constructor
 

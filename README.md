@@ -1,8 +1,6 @@
 ## Polymorphism practice: IncrementerSynchronizer
 
-**Branch name:** interfaces-classroom (continue on the same branch as in class)
-
-**RDE workflow:** (none: just run `main()` directly in IntelliJ)
+**GitHub repo:** [ebd-polymorphism-interfaces-incrementer-synchronizer](https://github.com/LambdaSchool/ebd-polymorphism-interfaces-incrementer-synchronizer)
 
 In this activity we will get more practice writing polymorphic code. We
 will write a class that will manage an `ArrayList` of `Incrementable` objects,
@@ -76,5 +74,4 @@ You are done when:
 
 ### Commit & Push
 
-Commit your changes to the same branch you used for the classroom activities,
-and push to remote.
+Commit your changes to the same and push to remote.

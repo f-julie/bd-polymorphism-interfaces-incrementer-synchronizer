@@ -1,6 +1,4 @@
-## Polymorphism practice: IncrementerSynchronizer
-
-**GitHub repo:** [ebd-polymorphism-interfaces-incrementer-synchronizer](https://github.com/LambdaSchool/ebd-polymorphism-interfaces-incrementer-synchronizer)
+## IncrementerSynchronizer
 
 In this activity we will get more practice writing polymorphic code. We
 will write a class that will manage an `ArrayList` of `Incrementable` objects,

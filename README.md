@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 # Polymorphism practice: IncrementerSynchronizer
 
 ## Repo
 **GitHub repo:** [ebd-polymorphism-interfaces-incrementer-synchronizer](https://github.com/LambdaSchool/ebd-polymorphism-interfaces-incrementer-synchronizer)
+=======
+## IncrementerSynchronizer
+>>>>>>> 582a322706fd7d1fb84ed146ab7e1897028161c9
 
 ## Background
 

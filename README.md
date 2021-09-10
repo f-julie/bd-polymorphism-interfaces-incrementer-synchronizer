@@ -1,11 +1,16 @@
-## Polymorphism practice: IncrementerSynchronizer
+# Polymorphism practice: IncrementerSynchronizer
 
+## Repo
 **GitHub repo:** [ebd-polymorphism-interfaces-incrementer-synchronizer](https://github.com/LambdaSchool/ebd-polymorphism-interfaces-incrementer-synchronizer)
+
+## Background
 
 In this activity we will get more practice writing polymorphic code. We
 will write a class that will manage an `ArrayList` of `Incrementable` objects,
 and a `main()` method to interact with the `ArrayList`.
 
+
+## Instructions
 ### Create the class
 
 Create a new class called `IncrementerSynchronizer` in the
@@ -61,7 +66,7 @@ expectations. Once you have this working, update your main method to
 make a few calls to `incrementAll()`, reporting the incrementers values
 after each.
 
-### Doneness
+## Doneness
 
 You are done when:
 - Your `IncrementerSynchronizer` has at least three `Incrementable`s
@@ -72,6 +77,6 @@ You are done when:
   that are declared to be of interface types. (If not, ask your group for
   help!)
 
-### Commit & Push
+## Commit & Push
 
-Commit your changes to the same and push to remote.
+Commit your changes and push to remote.
